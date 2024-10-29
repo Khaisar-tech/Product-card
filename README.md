@@ -151,9 +151,6 @@ Testing and Refining: I tested the design on different devices to ensure it main
 
 These learnings have not only improved my coding skills but also boosted my confidence in building responsive and user-friendly web applications.
 
-
-### Continued development
-
 ### Continued Development
 
 1. Advanced CSS Techniques:
@@ -213,7 +210,7 @@ CSS Tricks: A comprehensive website with tutorials and articles on CSS, responsi
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Khaisar](https://khaisar-tech.github.io/Product-card/)
 - Frontend Mentor - [@Khaisar-tech](https://www.frontendmentor.io/profile/Khaisar-tech)
 
 ## Acknowledgments
